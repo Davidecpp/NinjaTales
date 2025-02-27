@@ -7,10 +7,10 @@ NinjaTales is an exciting 2D game built using Java Swing.
 Players take on the role of a ninja, battling through various levels filled with monsters. The goal is to defeat all enemies, level up, and become the ultimate ninja warrior!
 
 ### Features
--Dynamic Gameplay: Fast-paced action with a variety of enemies and challenges.
--Level Progression: Gain experience and level up to unlock new abilities and powers.
--Intuitive Controls: Easy-to-learn controls for smooth gameplay.
--Engaging Storyline: Immerse yourself in the world of NinjaTales with a captivating narrative.
+- Dynamic Gameplay: Fast-paced action with a variety of enemies and challenges.
+- Level Progression: Gain experience and level up to unlock new abilities and powers.
+- Intuitive Controls: Easy-to-learn controls for smooth gameplay.
+- Engaging Storyline: Immerse yourself in the world of NinjaTales with a captivating narrative.
 
 Getting Started
 Prerequisites
