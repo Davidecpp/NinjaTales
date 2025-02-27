@@ -17,9 +17,7 @@ Players take on the role of a ninja, battling through various levels filled with
 Java Development Kit (JDK) 8 or later
 Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse (optional)
 - ## Installation
-Clone the Repository:
-
-## Copy
+Clone the Repository: 
 git clone https://github.com/Davidecpp/NinjaTales.git
 ## Navigate to the Project Directory:
 Copy
