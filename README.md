@@ -19,16 +19,17 @@ Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse (optional
 - ## Installation
 Clone the Repository:
 
-- ## Copy
+## Copy
 git clone https://github.com/Davidecpp/NinjaTales.git
-Navigate to the Project Directory:
+## Navigate to the Project Directory:
 Copy
 cd NinjaTales
-Compile and Run the Game:
-
+## Compile and Run the Game:
 Open the project in your preferred IDE.
 Compile the source files.
 Run the Main class to start the game.
 ### Controls
-- Movement: Use arrow keys or WASD to move the ninja.
-- Attack: Press the spacebar to attack enemies.
+- Movement: Use WASD to move the ninja.
+- Attack: Press enter to attack enemies.
+- Interact: press enter nearby the object to interact
+- Shoot: Press f to shoot a fireball.
