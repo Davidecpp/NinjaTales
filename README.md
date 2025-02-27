@@ -1,4 +1,4 @@
-NinjaTales
+##NinjaTales##
 
 Screenshot of the game interface.
 
