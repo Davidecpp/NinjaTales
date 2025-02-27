@@ -1,6 +1,7 @@
 ## NinjaTales
 
-Screenshot of the game interface.
+![Screenshot del Gioco](images/screenshot.png)
+
 
 ## Game Overview
 NinjaTales is an exciting 2D game built using Java Swing. 
