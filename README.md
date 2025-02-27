@@ -1,6 +1,6 @@
 ## NinjaTales
 
-![Screenshot del Gioco](images/screenshot.png)
+![Screenshot del Gioco]([images/screenshot.png](https://github.com/Davidecpp/NinjaTales/blob/main/NinjaTalesImg.png))
 
 
 ## Game Overview
